@@ -1,11 +1,11 @@
-# Python for Industrial Engineering (Eng Version)
+# Python for Industrial Engineering (English Version)
 
 <img align="middle" src="https://user-images.githubusercontent.com/61647791/128857429-6fbef833-cc80-4357-a04f-1e0b2ea70b8e.png" />
 
 
-<p> Dengan banyaknya data yang dihasilkan setiap detik pada perusahaan atau instansi, skill analisis data dan ilmu data semakin banyak dibutuhkan. Hal inilah yang mendorong saya untuk mempelajari skill tersebut. Dengan domain knowledge berupa ilmu Teknik Industri saya mencoba memanfaatkan skill tersebut untuk menyelesaikan permasalahan di Industri seperti penjadwalan produksi, peramalan permintaan, optimasi rantai pasok, dan lain-lain. Repository ini berisi pengantar optimasi menggunakan bahasa pemrograman python beserta beragam project. Diharapkan repository ini bisa bermanfaat bagi para pembaca. Sumber materi di ambil dari materi kuliah ataupun course yang saya ambil. </p>
+<p> Hello, I'm Rian. I am currently an Industrial Engineering student at a university in Indonesia. I like the python language and am interested in combining it with Industrial Engineering knowledge. Industrial engineering is concerned with how products or services are made from upstream until it goes to consumers. Industrial engineering covers many things, ranging from production systems, supply chain and logistics, economic analysis, decision making, and others. Hopefully, this repository can motivate readers from industrial engineering or related fields. If I find interesting material, I will put it in this repository with python code.</p>
 
-Berikut adalah referensi yang bisa digunakan:
+These are the source that I've already used:
 1. Sarker and Newton - Optimization Modelling, A Practical Approach
 2. Udemy - Supply Chain Design and Planning with Excel & Python. Haytham Omar, Consultant-Supply chain
 3. Udemy - RA: Data Science and Supply Chain analytics. A-Z with Python. Haytham Omar, Consultant-Supply chain
@@ -13,4 +13,4 @@ Berikut adalah referensi yang bisa digunakan:
 5. DataCamp - Supply Chain Analytics in Python
 
 
-**NB: Apabila mengalami kendala file tidak bisa dibuka, copy paste link file ipynb ke https://nbviewer.jupyter.org**
+**NB: If you have a problem with opening the ipynb file you can use this link https://nbviewer.jupyter.org**
